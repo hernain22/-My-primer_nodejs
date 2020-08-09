@@ -1,0 +1,2 @@
+npm init
+npm install express webpack webpack-dev-middleware html-webpack-plugin css-loader style-loader nodemon -d
